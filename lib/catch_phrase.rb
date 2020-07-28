@@ -1,6 +1,4 @@
 
 def catch_phrase(phrase)
-  phrase = "save princess"
+  puts phrase
 end
-
-catch_phrase("save the princess")
